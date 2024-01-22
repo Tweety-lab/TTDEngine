@@ -14,3 +14,7 @@
   - Added Debug Full Bright Material (Mat_FullBright)
   - Added BP_LevelData
   - Added BP_StaticCam
+ 
+## Static Camera Showcase:
+ 
+![staticcam](./wiki/media/StaticCam.gif)
